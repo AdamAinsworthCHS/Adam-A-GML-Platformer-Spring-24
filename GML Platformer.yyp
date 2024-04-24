@@ -6,7 +6,6 @@
     {"id":{"name":"spr_walls","path":"sprites/spr_walls/spr_walls.yy",},"order":6,},
     {"id":{"name":"tl_walls","path":"tilesets/tl_walls/tl_walls.yy",},"order":0,},
     {"id":{"name":"spr_grain","path":"sprites/spr_grain/spr_grain.yy",},"order":8,},
-    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
     {"id":{"name":"spr_clouds","path":"sprites/spr_clouds/spr_clouds.yy",},"order":7,},
     {"id":{"name":"spr_player_walk","path":"sprites/spr_player_walk/spr_player_walk.yy",},"order":2,},
     {"id":{"name":"spr_player_idle","path":"sprites/spr_player_idle/spr_player_idle.yy",},"order":4,},

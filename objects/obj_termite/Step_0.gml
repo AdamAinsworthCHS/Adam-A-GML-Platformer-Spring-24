@@ -27,7 +27,6 @@ y += vsp
 if (hsp != 0) image_xscale = sign(hsp);
 
 //Behavior
-hsp = walksp
-if (!place_meeting(bbox_right + sign(hsp) * 2, bbox_bottom + 1, obj_wall)){
+if (!place_meeting(bbox_right + sign(hsp), bbox_bottom + 1, obj_wall)){
 	hsp *= -1
 }

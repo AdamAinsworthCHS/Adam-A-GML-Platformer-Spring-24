@@ -13,11 +13,8 @@ vsp += grv;
 if (place_meeting(x, y + 1, obj_wall)) and (key_jump)
 {
 	vsp = -jumpsp
-<<<<<<< HEAD
 	audio_play_sound(snd_jump, 1, false)
-=======
 	audio_play_sound(snd_jump, 1, false);
->>>>>>> 705beaf24971682a3a644ead4abf3ec7a4b8b954
 }
 
 //Horizontal collision
